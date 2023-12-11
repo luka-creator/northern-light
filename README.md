@@ -1,4 +1,4 @@
-# co5994e0680bd5d6be91a1fdc
+my northern-light project
 
 Quick start:
 
